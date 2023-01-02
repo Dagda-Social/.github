@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./icon-play.png" width="250" alt="MyFoodieJournal logo" title="MyFoodieJournal">
+</p>
+
 # dagda - Social Network
 
 **Dagda - Social Network** was born from the idea of [@d4viddf](https://github.com/D4vidDf) to create a social network where each user has control of the content they want to see and what content they want to publish.
