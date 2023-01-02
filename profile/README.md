@@ -8,6 +8,12 @@
 
 The concept of the social network should be governed by the users themselves and not by algorithms that control the users' feed. Dagda gives users full control by allowing them to filter content by category and dividing their profile into different public or private feeds.
 
-## Links
+## Join dagda - Social Network
 
-* [dagda - Social Network](https://dagda.social)
+Currently **dagda** is in an early stage of development. For now you can access the preliminary version at https://dagda.social where you can obtain information on the output of the social network.
+
+Soon it will be available in Google Play Store and Apple Store.
+
+## Privacy Policy
+
+Our privacy policy is available on [Privacy Policy](https://dagda.social/privacy-policy)
