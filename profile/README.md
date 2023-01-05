@@ -1,5 +1,5 @@
 <p align="center">
-<img src="profile/icon-play.png" width="250" alt="MyFoodieJournal logo" title="MyFoodieJournal">
+<img src="https://github.com/Dagda-Social/.github/blob/main/profile/icon-play.png" width="250" alt="MyFoodieJournal logo" title="MyFoodieJournal">
 </p>
 
 # dagda - Social Network
